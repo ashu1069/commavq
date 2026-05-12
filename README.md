@@ -73,11 +73,56 @@ Submit a single zip file containing the compressed data and a python script to d
    <td>
    </td>
    <td>
+    3.0
+   </td>
+   <td>
+    <a href="https://github.com/SAT-oO">
+     SAT-oO
+    </a>
+   </td>
+   <td>
+    arithmetic coding with GPT
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
     2.9
    </td>
    <td>
     <a href="https://github.com/BradyWynn">
      BradyWynn
+    </a>
+   </td>
+   <td>
+    arithmetic coding with GPT
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    2.7
+   </td>
+   <td>
+    <a href="https://github.com/ylevental">
+     ylevental
+    </a>
+   </td>
+   <td>
+    arithmetic coding with GPT
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    2.7
+   </td>
+   <td>
+    <a href="https://github.com/ksd3">
+     ksd3
     </a>
    </td>
    <td>
